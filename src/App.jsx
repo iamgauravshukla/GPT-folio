@@ -1,12 +1,12 @@
 import './App.css'
+import ScrollAnimation from './components/designs/ScrollAnimation'
 
 function App() {
 
   return (
     <>
-      <div>
-        Hello
-        </div>
+      <ScrollAnimation/>
+     
     </>
   )
 }
